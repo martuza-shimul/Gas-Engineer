@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name>Locations for Gas Engineer London </name>
+		<atom:author>
+			<atom:name>Adam </atom:name>
+		</atom:author>
+		<atom:link rel="related" href="https://gas-engineer-london.co.uk" />
+		<Folder>
+			<Placemark>
+				<name><![CDATA[Gas Engineer London ]]></name>
+				<address><![CDATA[24 Kenilworth Road, London, E3 5RJ, United Kingdom]]></address>
+				<phoneNumber><![CDATA[020 8088 3078]]></phoneNumber>
+				<description><![CDATA[Gas Engineer London<br />
+Available Round The Clock <br />
+Fast Response Time <br />
+Best Rates Guaranteed | Boilers | Heaters Servicing | Repairs | Certificates  <br />
+Work Guaranteed]]></description>
+				<Point>
+					<coordinates>-0.0640126,51.5197926,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name><![CDATA[Gas Engineer London ]]></name>
+				<address><![CDATA[24 Kenilworth Road, London, E3 5RJ, United Kingdom]]></address>
+				<phoneNumber><![CDATA[020 8088 3078]]></phoneNumber>
+				<description><![CDATA[Gas Engineer London<br />
+Available Round The Clock <br />
+Fast Response Time <br />
+Best Rates Guaranteed | Boilers | Heaters Servicing | Repairs | Certificates  <br />
+Work Guaranteed]]></description>
+				<Point>
+					<coordinates>-0.0640126,51.5197926,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

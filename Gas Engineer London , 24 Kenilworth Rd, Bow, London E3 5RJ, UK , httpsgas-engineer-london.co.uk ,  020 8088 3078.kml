@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Gas Engineer London , 24 Kenilworth Rd, Bow, London E3 5RJ, UK , https://gas-engineer-london.co.uk ,  020 8088 3078</name>
+    <description><![CDATA[Gas Engineer London ,<br>24 Kenilworth Rd, Bow, London E3 5RJ, UK ,<br>https://gas-engineer-london.co.uk , <br>020 8088 3078]]></description>
+    <NetworkLink>
+      <name>Gas Engineer London , 24 Kenilworth Rd, Bow, London E3 5RJ, UK , https://gas-engineer-london.co.uk ,  020 8088 3078</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1zqhIDFU31BxAxAQF8cVotaVC8njTPdv2]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
